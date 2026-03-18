@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "未完成に瞬いて",
   "base_artist": "おいしくるメロンパン",
-  "createdAt": "2026-03-18T07:50:41.229531Z",
+  "createdAt": "2026-03-18T12:11:37.386841Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "おいしくるメロンパン",
       "has_synced": false,
       "path": "select/pl_01_未完成に瞬いて_おいしくるメロンパン.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "未完成に瞬いて",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/localdb_01_未完成に瞬いて_おいしくるメロンパン.txt",
+      "repo_name": "bqmF7wO0Edc"
     }
   ]
 }
